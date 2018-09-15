@@ -1,0 +1,11 @@
+.photo{
+width: 120px;
+height: 120px;
+float: left;
+}
+
+.section1{
+float: left;
+background-color: aqua;
+
+}
